@@ -1,0 +1,8 @@
+.tr
+{
+	opacity:0.5;
+}
+.tr:hover
+{
+	opacity:1.0;
+}
